@@ -72,26 +72,6 @@ This is a full-stack Todo application built using the MERN stack (MongoDB, Expre
    ```bash
    npm start
    ```
-
-## Folder Structure
-```
-mern-todo-app/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── .env
-│   └── server.js
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── pages/
-│   │   └── App.js
-│   └── package.json
-└── README.md
-```
-
 ## Technologies Used
 - MongoDB
 - Express.js
@@ -102,4 +82,7 @@ mern-todo-app/
 
 ## License
 This project is licensed under the MIT License.
+
+![image](https://github.com/user-attachments/assets/2690cbea-107e-4798-9bb9-4cff9df8df78)
+
 
